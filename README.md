@@ -1,7 +1,7 @@
 🛒 Amazon Homepage Clone<br><br>
 🚀 Live Demo: https://snapshopper.netlify.app/<br>
 📌 Project Overview<br>
-A modern Amazon homepage UI clone built using HTML, CSS, and JavaScript. This project replicates the header, navigation panel, hero section, shopping categories, and footer of Amazon's website.
+A modern Amazon homepage UI clone built using HTML, CSS, and JavaScript. This project replicates the header, navigation panel, hero section, shopping categories, and footer of Amazon's website.<br>
 
 🚀 Features<br/>
 ✅ Amazon-style header with search, sign-in, and cart options.<br/>
